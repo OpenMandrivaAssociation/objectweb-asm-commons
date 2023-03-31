@@ -1,6 +1,6 @@
 Name:           objectweb-asm-commons
 Version:        7.1
-Release:        1
+Release:        2
 Summary:        Class adapters based on ASM, a Java bytecode manipulation framework
 License:        BSD
 URL:            http://asm.ow2.org/
